@@ -2,7 +2,7 @@
 [![Python](https://img.shields.io/badge/python-3.10%2B-blue.svg)](https://www.python.org/)
 
 
-# :zap: Tclin-like
+## :zap: Tclin-like
 
 This repository provides the data, trained ML models, and prediction workflows required to reproduce the analyses reported in the "Temporally Validated Models for Target Druggability" manuscript.  
 The study applies XGBoost (XGB) and One-Class Support Vector Machine (1SVM) models to predict the druggability of protein targets (Tclin-like/druglikeness) using features derived from Gene Tissue Expression (GTEX), Cancer Cell Line Encyclopedia (CCLE), DISEASES (Jensen Lab), Library of Integrated Network-based Cellular Signatures (LINCS), and evidence from publications, patents, and known ligands. 
