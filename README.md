@@ -9,6 +9,8 @@ The study applies XGBoost (XGB) and One-Class Support Vector Machine (1SVM) mode
 
 [Link to the manuscript To be added](TBA)  
 
+![Overview of Tclin-like workflow](supplementary/Figure1.png)
+
 ---
 
 ## 📁 `data/`
