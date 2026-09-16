@@ -37,7 +37,7 @@ The study applies XGBoost (XGB) and One-Class Support Vector Machine (1SVM) mode
 
 ## 📊 `Supplementary/`
 
-- Supplementary Table 2: Predictions for over 18,000 proteins and comparison across Tclin-like scores, Drugnome AI, PINNED, and DrugHunter.  
+- Supplementary Table S1: Predictions for over 18,000 proteins and comparison across Tclin-like scores, Drugnome AI, PINNED, and DrugHunter.  
 - Predicted druggability scores for proteins that received Tclin designation in 2024, as reported in the manuscript in Table 6.
 
 | Drug Name      | Gene Symbol | Target Class       | Tclin-like Score | PINNED Score | DrugnomeAI Score | Tclin Designation Year |
