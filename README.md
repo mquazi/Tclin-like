@@ -39,7 +39,7 @@ DOI: https://doi.org/10.1021/acs.jcim.6c03088
 ## 📊 `Supplementary/`
 
 - Supplementary Table S1: Predictions for over 18,000 proteins and comparison across Tclin-like scores, Drugnome AI, PINNED, and DrugHunter.  
-- Predicted druggability scores for proteins that received Tclin designation in 2024, as reported in the manuscript in Table 6.
+- Predicted druggability scores for proteins that received Tclin designation in 2024, as reported in the manuscript in Table 5.
 
 | Drug Name      | Gene Symbol | Target Class       | Tclin-like Score | PINNED Score | DrugnomeAI Score | Tclin Designation Year |
 |----------------|------------|-----------------|----------------|--------------|----------------|----------------------|
@@ -57,12 +57,13 @@ DOI: https://doi.org/10.1021/acs.jcim.6c03088
 
 
 ## :paperclip: Citation 
-Quazi, Mohammed, et al. "Temporally Validated Models for Target Druggability." Journal TBA (2026).
+Quazi, Mohammed, Suman Sirimulla, Cristian G. Bologa, Alexei Pushechnikov, Bill Farley, Nikolay Savchuk, and Tudor I. Oprea. "Temporally Validated Models for Target “Tclin-likeness”." *Journal of Chemical Information and Modeling* (2026). https://doi.org/10.1021/acs.jcim.6c03088
 ```bib
 @article{Quazi2026Tclin,
-      title={Temporally Validated Models for Target Druggability}, 
-      author={Mohammed Quazi and Suman Sirimulla and Cristian G Bologa and Alexei Pushechnikov and Bill Farley and Nikolay Savchuk and Tudor I. Oprea},
-      year={2026},
-      publisher={TBA}
+  title={Temporally Validated Models for Target ``Tclin-likeness''},
+  author={Quazi, Mohammed and Sirimulla, Suman and Bologa, Cristian G. and Pushechnikov, Alexei and Farley, Bill and Savchuk, Nikolay and Oprea, Tudor I.},
+  journal={Journal of Chemical Information and Modeling},
+  year={2026},
+  doi={10.1021/acs.jcim.6c03088}
 }
 ```
